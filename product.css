@@ -1,0 +1,17 @@
+.content {
+    margin: 0 0 0 10px;
+    display:inherit;
+    float:left;
+    margin-bottom:40px;
+    border-collapse:collapse;
+  
+  }
+  h2 {
+    margin: 0;
+    font-family:sans-serif;
+    height:50px;
+    width:100%;
+    text-align:center;
+    background-color:black;
+    color:white;
+  }

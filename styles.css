@@ -1,0 +1,112 @@
+
+body{
+
+    background-color:silver;
+  }
+  h1 {
+    margin: 0;
+    font-family:sans-serif;
+    height:50px;
+    width:100%;
+    text-align:center;
+    background-color:black;
+    color:white;
+  }
+  
+  
+  .first {
+    margin: 10px;
+    
+  }
+  img {
+    max-height: 200px;
+  }
+  p {
+    margin-top: 5px;
+    font-size: 0.9em;
+    text-align: justify;
+    margin-bottom: 10px;
+   
+  }
+  .column p {
+    font-family:times;
+    font-size: 0.8em;
+  }
+  
+  a {
+    font-weight: 900;
+  }
+  a:hover {
+    color: red;
+  }
+  footer {
+    height: 100%;
+    border-top:1px solid;
+    text-align:center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  li {
+    border-right: 1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  .image{
+   margin-left:250px;
+   margin-top:20px;
+   justify-content:space-between;
+    
+  }
+  .umuhire{
+    float:right;
+    margin:0 0 0 10px;
+  
+    
+  }
+  .kaka{
+    overflow:auto;
+  }
+  #one{
+    margin-left:270px;
+  }
+  
+  
+  .container{
+    height:800px;
+  }
+  .nana{
+    color:white;
+    background-color:blue;
+  }
+  .container2{
+    display:flex;
+    flex-wrap:wrap;
+    height:500px; 
+   justify-content:space-between;
+    
+  }
+  
+  
